@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header { width: 100%;
+    background-color: darkgreen;
+
+}
+header {
+     color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.header > a {
+    color: white;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+
+}
+
+/* #iright {
+    float: right;
+} */
+
+.main {
+    padding: 15px;
+    
+}
+img {
+    width: 66%;
+}
+
+h1 { font-weight: 500;
+    font-size: 30px;
+
+}
+
+table {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    width: 66%;
+    margin-top: 15px;
+}
+/* 
+th {
+    background-color: green;
+    color: white;
+    padding: 10px;
+
+
+} */
+
+.main .top {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+td {padding: 10px; }
+
+tr { border: 1px solid lightgray; }
+
+.sell { background-color: rgb(238, 232, 232); }
+
+.text {
+    width: 30%;
+    margin-right: 0;
+}
+
+/* .main, .text {
+    float: left;
+} */
+
+
+
+
+.text {
+    /* float: right; */
+    
+position: absolute;
+left: 67%;
+top: 15%;}
+
+.text h1 {
+    font-size: 33px;
+}
+
+#iright {
+    position: absolute;
+    left: 97%;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+a:visited {
+    color: white;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+
+}
+
+
